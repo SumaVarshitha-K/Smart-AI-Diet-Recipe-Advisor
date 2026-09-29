@@ -126,4 +126,4 @@ The project uses a base `Recipe` class and a derived `NutritionRecipe` class.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Smart-AI-Diet-Recipe-Advisor.git
+git clone https://github.com/SumaVarshitha-K/Smart-AI-Diet-Recipe-Advisor.git
